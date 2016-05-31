@@ -1,2 +1,2 @@
 # Radioactive
-Archive of old game called Radioactive (created 2013). Used Java &amp; Greenfoot.
+Archive of old game called Radioactive. Created in 2013, using Java & Greenfoot (http://www.greenfoot.org/home).
